@@ -1,2 +1,2 @@
-# donkey_kong
-jogo donkey kong feito por JavaScript
+# Detona_Ralph
+Criando um Jogo do Detona Ralph com JavaScript
